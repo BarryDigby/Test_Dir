@@ -7,6 +7,8 @@ set.seed(123)   #try putting a # in front of this line and run the code a few ti
 #Load the library class
 library('class')
 
+#here are some chages to test in GIT
+
 #Load the library caret
 #The caret library does a lot more than just SVM
 #For more details on caret see https://topepo.github.io/caret/index.html
